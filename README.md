@@ -1,1 +1,1 @@
-# biomedicalimageprocessing
+# Biomedical Signal Processing
