@@ -89,8 +89,23 @@ Step2) Subtracted from the data
 ![image](https://user-images.githubusercontent.com/117635899/213465700-dffa521f-162d-440a-870f-957e8c8f03cf.png)
 
 
+Calculation of Covariance matrix(S) of Data Matrix(X)
 
+![image](https://user-images.githubusercontent.com/117635899/213466575-429dbcee-3fab-4a40-ab2d-15404f9a85ee.png)
 
+Property of Covariance matrix(S) of Data Matrix(X)
 
+![image](https://user-images.githubusercontent.com/117635899/213466809-5afc9f83-6114-43d5-a20a-89c4eda154ab.png)
 
+![image](https://user-images.githubusercontent.com/117635899/213466921-7c017179-557c-4b59-a3f2-a13e398de2d3.png)
+
+Calculation of Eigenvalues of Covariance matrix (S)
+
+![image](https://user-images.githubusercontent.com/117635899/213467074-cdc07f1f-0ed8-4c5f-aafb-133ed0e18293.png)
+
+Calculation of the corresponding Eigenvectors of Covariance matrix (S)
+
+![image](https://user-images.githubusercontent.com/117635899/213467292-712237c0-6d0b-43a5-aad8-dbb6079ab1aa.png)
+
+![image](https://user-images.githubusercontent.com/117635899/213467522-6836b185-300a-4a1c-914a-8a7a116a6aa9.png)
 
