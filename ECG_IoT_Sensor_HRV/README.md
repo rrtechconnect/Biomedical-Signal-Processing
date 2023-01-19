@@ -1,4 +1,10 @@
 
+An IoT Wi-Fi Connected Sensor For Real Time Heart Rate Variability Monitoring
+
+Abstract: Heart rate variability (HRV) measurement is very much essential to determine the heart's health and it's functioning. The real-time HRV measurement helps physicians to assess the physiological state of a person or a patient. Several personal HRV monitoring devices have been developed and put to use in different ways. However, less has been explored, when it comes to leveraging the benefits of internet-of-things (IoT) and cloud technology for real-time HRV monitoring using wireless sensor networks. This work describes an implementation of an IoT cloud-based HRV monitoring application using a low-power embedded microcontroller interfaced to a Wi-Fi embedded network processor. An ECG analog frontend AD8232 was wired to a low-power microcontroller MSP430, and the micro-controller was interfaced to CC3100 Wi-Fi booster pack through a serial peripheral interface (SPI) for acquiring the wireless transmission capability. The microcontroller was programmed to acquire the data from the analog frontend by enabling the timer interrupt control. The ECG peak detection algorithm was implemented on the microcontroller to derive heart rate and inter-beat-interval (IBI) values. The real-time heart rate values were streamed to PubNub IoT web interface using TCP/IP stack on Wi-Fi booster. The data from PubNub channel was visualized using freeboard.io dashboard. The experimental results confirm the suitability of implemented wireless sensor node for real-time HRV monitoring and to implement multi-parameter healthcare monitoring IoT applications.
+
+
+
 Motivation 
 
 Heart Rate Variability (HRV) ?
