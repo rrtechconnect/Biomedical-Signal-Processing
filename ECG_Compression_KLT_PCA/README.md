@@ -82,8 +82,6 @@ Step2) Subtracted from the data
 
 ![image](https://user-images.githubusercontent.com/117635899/213465420-66c6c4a4-858a-491d-b3e8-ef7739ce2d3b.png)
 
-![image](https://user-images.githubusercontent.com/117635899/213465499-5f662ea2-1eaa-41ad-943c-ff837c153c05.png)
-
 ![image](https://user-images.githubusercontent.com/117635899/213465579-b98aa59f-9469-4d17-acc4-50555de8cfdd.png)
 
 ![image](https://user-images.githubusercontent.com/117635899/213465700-dffa521f-162d-440a-870f-957e8c8f03cf.png)
