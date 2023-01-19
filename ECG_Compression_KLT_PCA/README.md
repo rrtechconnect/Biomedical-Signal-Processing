@@ -107,3 +107,45 @@ Calculation of the corresponding Eigenvectors of Covariance matrix (S)
 
 ![image](https://user-images.githubusercontent.com/117635899/213467522-6836b185-300a-4a1c-914a-8a7a116a6aa9.png)
 
+![image](https://user-images.githubusercontent.com/117635899/213470643-30685646-37de-4c4a-8412-61dfa3131d7a.png)
+
+![image](https://user-images.githubusercontent.com/117635899/213470695-f5aba628-55ac-49a6-9519-29b48fdeb37a.png)
+
+Calculation of scores
+
+![image](https://user-images.githubusercontent.com/117635899/213470772-1b3ea43f-8d15-4f2d-9b5c-9c1312a08076.png)
+
+![image](https://user-images.githubusercontent.com/117635899/213470813-ac8e5c84-193d-48a3-97e1-e0c6e409690e.png)
+
+Advantages of PCA
+
+From this example, Let’s suppose. We need to reduce our system to only one variable.
+
+Then we need to discard either variable X2 or X1. It means we will lose 56.74% or 43.26% of the total variance.
+
+If, however, we convert our data set to scores on the first principal axis(PC 1), we lose only 12.12% of the variation in our data set.
+This is a big advantage of PCA!!!
+
+MATLAB PCA  CODE FOR ECG DATA  COMPRESSION.
+
+This program illustrates the use of PCA on compressing multichannel ECG data.
+
+• Load data
+
+• Center the data (remove mean from each component)
+
+• Compute PCA/KLT matrix
+
+• Find principal components
+
+• About the eigenvalues...
+
+• Approximate all 15 ECG signals using first 3 principle components
+
+• Approximate all 15 ECG signals using first 7 principle components
+
+
+
+
+
+
