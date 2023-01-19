@@ -1,5 +1,7 @@
 A Novel IoT Cloud-based Real-Time Cardiac Monitoring Approach using NI myRIO-1900 for Telemedicine Applications
 
+Abstract: Wearable cardiac monitoring devices have been widely used in clinical environments to monitor functioning of heart. Long-term monitoring of cardiac parameters is indeed a norm to understand and capture different arrhythmic episodes for better diagnosis and treatment. The advancements in the field of wireless sensor networks and internet technology paved the way for building smart healthcare Internet-of-Things (IoT) applications. This paper presents a novel implementation of an IoT cloud-based real-time heart rate monitoring system using a reconfigurable embedded device with wireless capability, leveraging the advantage of a managed, cloud-hosted IoT service. A LabVIEW-based real-time embedded device named myRIO 1900 was wired to receive input from an ECG sensor module for data acquisition and further processing. The signal processing and heart rate calculation model was implemented using LabView virtual instrumentation block sets. Further, the implemented system is configured to communicate to IBM Watson IoT platform to view heart rate in real-time. This approach confirms the possibility of building multi-parameter healthcare monitoring applications using a real-time embedded target and an IoT cloud for telemedicine and smart rural healthcare services.
+
 Motivation & Introduction 
 
     The mortality rate of chronic cardiac patients are too high
