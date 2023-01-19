@@ -1,4 +1,4 @@
-A Novel IoT Cloud-based Real-Time Cardiac Monitoring Approach using NI myRIO-1900 for Telemedicine Applications![image](https://user-images.githubusercontent.com/117635899/213390861-75ee45e9-cb32-489d-82ed-f68f9a626e92.png)
+A Novel IoT Cloud-based Real-Time Cardiac Monitoring Approach using NI myRIO-1900 for Telemedicine Applications
 
 Motivation & Introduction 
 
@@ -119,11 +119,11 @@ Heart Rate from Subject 2 (Remote Location)
 
 Advantages
 
-    Continuous ECG signals from Vernier EKG sensor and myRIO processor were recorded.
+  Continuous ECG signals from Vernier EKG sensor and myRIO processor were recorded.
+    
+  These real-time signals were transmitted through Wi-Fi to a nearby system or laptop.
 
-    These real-time signals were transmitted through Wi-Fi to a nearby system or laptop.
-
-    Heart rate parameter was transmitted from the system to remote locations through IBM Watson IoT platform
+  Heart rate parameter was transmitted from the system to remote locations through IBM Watson IoT platform
 
     
 Conclusion
