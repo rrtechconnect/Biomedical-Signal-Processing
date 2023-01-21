@@ -39,7 +39,7 @@ FFT BASED PEAK DETECTION & SNR Calculation
 
 RESULTS
 
-![image](https://user-images.githubusercontent.com/117635899/213845132-a9ff12b9-662b-4867-861c-8b4594201051.png)
+![image](https://user-images.githubusercontent.com/117635899/213845200-d82c5cdc-389a-4e4d-a75f-741441302999.png)
 
 
 
