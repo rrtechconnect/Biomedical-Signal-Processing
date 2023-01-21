@@ -55,6 +55,7 @@ LITERATURE REVIEW
 Why Python(x,y) ?
 
 [image](https://user-images.githubusercontent.com/117635899/213846800-6c982089-a436-4564-8682-f7bfc91ce1ea.png)
+
 [image](https://user-images.githubusercontent.com/117635899/213846816-56397f04-686b-4598-8c5a-37b5dc1601c1.png)
 
 Feature Extraction and Classification :Why Band Power Technique and LDA ?
