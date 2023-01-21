@@ -35,7 +35,8 @@ SSVEP Setup
 
 FFT BASED PEAK DETECTION & SNR Calculation
 
-![image](https://user-images.githubusercontent.com/117635899/213845088-81e34575-9bbb-489b-aadc-90a0441a91f6.png)
+![image](https://user-images.githubusercontent.com/117635899/213845486-e01f5478-52ca-4b9c-9e93-639fb437e949.png)
+
 
 RESULTS
 
