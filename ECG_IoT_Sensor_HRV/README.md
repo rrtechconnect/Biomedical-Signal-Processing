@@ -29,6 +29,11 @@ Objective
 
 ![image](https://user-images.githubusercontent.com/117635899/213384930-55ec68fb-4ed2-47ce-b495-cd0e8e054301.png)
 
+The SETUP
+
+![image](https://user-images.githubusercontent.com/117635899/213858373-3e4adc0e-16be-44a2-bb32-198690092e18.png)
+
+
 AD8232 ECG Analog Frontend 
 
   An integrated single-lead ECG front end from Analog Devices with common-mode rejection ratio of 80 dB (dc to 50 Hz).
