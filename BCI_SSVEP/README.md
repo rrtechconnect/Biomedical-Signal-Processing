@@ -39,7 +39,7 @@ FFT BASED PEAK DETECTION & SNR Calculation
 
 ACKNOWLEDGEMENT:
 
-This work was carried out at BRAIN COMPUTER INTERFACE LABORATORY, RAMAN RESEARCH INSTITUTE, BANGALORE under the guidance of Dr. Hema Ramachandran, Dr. Ramesh, Mrs.Sujatha as part of my M.Tech Internship.
+This work was carried out at BRAIN COMPUTER INTERFACE LABORATORY, RAMAN RESEARCH INSTITUTE, BANGALORE under the guidance of Dr. Hema Ramachandran, Dr. Ramesh, Mrs.Sujatha. This work was done as part of my M.Tech Internship at BCI lab.
 
 RESULTS
 
