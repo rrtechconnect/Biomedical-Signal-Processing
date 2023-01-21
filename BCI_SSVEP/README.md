@@ -28,10 +28,6 @@ What is SSVEP?
   Let a visual stimulus be intentionally flickered on and off at a  known frequency. 
 
   Presence of a signal at the same frequency in the EEG from the occipital area indicates that the subject is looking at the stimulus.
-  
-SSVEP Setup
-
-![SSVEP](https://user-images.githubusercontent.com/117635899/213845063-592321cd-61be-43d0-8a0a-09abc6276cad.jpg)
 
 FFT BASED PEAK DETECTION & SNR Calculation
 
