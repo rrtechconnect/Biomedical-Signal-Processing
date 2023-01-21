@@ -53,6 +53,11 @@ Features of Proposed Method
     
     ![image](https://user-images.githubusercontent.com/117635899/213392193-9cab4f57-7731-4995-b78f-b469014faea2.png)
 
+The SETUP
+
+![image](https://user-images.githubusercontent.com/117635899/213858373-3e4adc0e-16be-44a2-bb32-198690092e18.png)
+
+
 NI myRIO-1900
 
   NI MyRIO-1900 is a portable reconfigurable I/O (RIO) device that could be used to design control, robotics, and mechatronics systems.
