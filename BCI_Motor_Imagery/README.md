@@ -134,6 +134,34 @@ The set-up could be modified to perform the online classification of the motor i
 
 Features such as the automatic MI activity band detection specific to each subject could be incorporated.
 
+ACKNOWLEDGEMENT
+
+This work was carried out at BRAIN COMPUTER INTERFACE LABORATORY, RAMAN RESEARCH INSTITUTE, BANGALORE under the guidance of Dr. Hema Ramachandran, Dr. Ramesh, Mrs.Sujatha. This work was done as part of my M.Tech Internship at BCI lab.
+
+EXTERNAL GUIDE
+Prof. Hema  Ramachandran
+LAMP & bci Group
+Raman  Research  Institute
+Bangalore-80
+
+INTERNAL GUIDE
+Dr. H.N SUMA
+Professor  &  HOD
+Department of  MEDICAL  ELECTRONICS
+BMS College  of engineering, BANGALORE-19
+
+Prof. Ramesh Balasubramanyam
+Brain Computer Interface Laboratory
+Raman Research Institute
+Bangalore-80.
+
+Mrs. Sujatha
+Scientific Assistant
+Brain Computer Interface Laboratory
+Raman Research Institute
+Bangalore-80.
+
+
 REFERENCES
 
 [1]. Luz María Alonso-Valerdia, Francisco Sepulvedaa, “Programming an Offline-Analyzer of Motor Imagery Signals via Python Language”, 33rd Annual International Conference of the IEEE EMBS Boston, Massachusetts USA, August 30 - September 3, 2011.
@@ -172,33 +200,6 @@ http://dx.doi.org/10.1155/2011/406391
 [15]. G.tec, “ Main products” Internet: http://www.gtec.at/Products Dec 1 2015 [Dec 02 2015]
 
 [16].BCI2000, “Introduction to mu rhythms” Internet: http://www.bci2000.org/wiki/index.php/User_Tutorial:Introduction_to_the_Mu_RhythmDec 20 2008 [Dec 02 2015].
-
-ACKNOWLEDGEMENT
-
-
-
-EXTERNAL GUIDE
-Prof. Hema  Ramachandran
-LAMP & bci Group
-Raman  Research  Institute
-Bangalore-80
-
-INTERNAL GUIDE
-Dr. H.N SUMA
-Professor  &  HOD
-Department of  MEDICAL  ELECTRONICS
-BMS College  of engineering, BANGALORE-19
-
-Prof. Ramesh Balasubramanyam
-Brain Computer Interface Laboratory
-Raman Research Institute
-Bangalore-80.
-
-Mrs. Sujatha
-Scientific Assistant
-Brain Computer Interface Laboratory
-Raman Research Institute
-Bangalore-80.
 
 
 
