@@ -50,20 +50,6 @@ MOTOR IMAGERY BCI FRAME WORK
 
 ![image](https://user-images.githubusercontent.com/117635899/213846758-0d766411-4934-43dd-b336-6de002902733.png)
 
-LITERATURE REVIEW
-
-Why Python(x,y) ?
-
-[image](https://user-images.githubusercontent.com/117635899/213846800-6c982089-a436-4564-8682-f7bfc91ce1ea.png)
-
-[image](https://user-images.githubusercontent.com/117635899/213846816-56397f04-686b-4598-8c5a-37b5dc1601c1.png)
-
-Feature Extraction and Classification :Why Band Power Technique and LDA ?
-
-![image](https://user-images.githubusercontent.com/117635899/213846868-4297612f-270a-43cd-8937-8045982b7e77.png)
-
-![image](https://user-images.githubusercontent.com/117635899/213846881-5f4e48d1-e032-4a89-9cac-ed2015c21318.png)
-
 MI BCI software Development steps:
 
 ![image](https://user-images.githubusercontent.com/117635899/213846909-138796b0-16ba-4ef8-8a86-4317053c7641.png)
@@ -95,9 +81,6 @@ Linear discriminant analysis (LDA)
     Minimizes the variance between two classes
 
     Dimensionality reduction
-
-![image](https://user-images.githubusercontent.com/117635899/213847063-55a0e471-fa19-4310-afb6-6dd34a40d6d8.png)
-Fig: projections of two dimensional set onto vector  w
 
 FFT  plot of C3-CZ digital out : sample Vs. Amplitude (mv) clearly shows the µ  Rhythm Activity in rest condition and during  imagination of  finger Movement!
 
