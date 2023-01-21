@@ -1,8 +1,9 @@
 
-Implementation and Development of Motor Imagery Brain Computer Interface using Python(x,y)
+**Implementation and Development of Motor Imagery Brain Computer Interface using Python(x,y)**
 
 
-MOTIVATION
+**MOTIVATION**
+
   BCI-Direct Communication between Brain and Computer
   
   “locked in”- Paralyzed
@@ -20,8 +21,8 @@ This thesis  involves implementation and development of one such  MI BCI.
 
 ![image](https://user-images.githubusercontent.com/117635899/213846615-6d63e125-d91c-4e99-9b0a-3537e822f8cf.png)
 
+**THE MOTOR IMAGERY BCI**
 
-THE MOTOR IMAGERY BCI
   µ (8-12 Hz) and ß (13-24Hz) rhythms
   
   Event-related Desynchronization (ERD)
@@ -34,7 +35,7 @@ THE MOTOR IMAGERY BCI
 
 ![image](https://user-images.githubusercontent.com/117635899/213846679-0a2eb8e7-e984-4cbc-8fda-0a8ae9991b39.png)
 
-FUNCTIONAL MODEL
+**FUNCTIONAL MODEL**
 
 ![image](https://user-images.githubusercontent.com/117635899/213846708-893487d3-453d-4114-9049-ed0c60aa5bab.png)
 
@@ -50,19 +51,19 @@ MOTOR IMAGERY BCI FRAME WORK
 
 ![image](https://user-images.githubusercontent.com/117635899/213846758-0d766411-4934-43dd-b336-6de002902733.png)
 
-MI BCI software Development steps:
+**MI BCI software Development steps:**
 
 ![image](https://user-images.githubusercontent.com/117635899/213846909-138796b0-16ba-4ef8-8a86-4317053c7641.png)
 
 ![image](https://user-images.githubusercontent.com/117635899/213846923-9612bc2f-a7e2-465c-8ead-6d6c7544d039.png)
 
-Parameter Extraction and classification
+**Parameter Extraction and classification**
 
 ![image](https://user-images.githubusercontent.com/117635899/213846933-f8cf8d22-1173-413b-9b63-3c731de58b18.png)
 
-Preprocessing
+**Preprocessing**
 
-Common Spatial Filtering (CSP)
+**Common Spatial Filtering (CSP)**
 
   Spatial-filters that increase/decrease the variance.
   
@@ -72,9 +73,9 @@ Common Spatial Filtering (CSP)
 
 ![image](https://user-images.githubusercontent.com/117635899/213846983-84de30e5-92cf-4127-83eb-392d7e05abad.png)
 
-Classification
+**Classification**
 
-Linear discriminant analysis (LDA)
+**Linear discriminant analysis (LDA)**
 
     Maximizes the distance between the means 
 
@@ -134,7 +135,7 @@ The set-up could be modified to perform the online classification of the motor i
 
 Features such as the automatic MI activity band detection specific to each subject could be incorporated.
 
-ACKNOWLEDGEMENT
+**ACKNOWLEDGEMENT**
 
 This work was carried out at BRAIN COMPUTER INTERFACE LABORATORY, RAMAN RESEARCH INSTITUTE, BANGALORE under the guidance of Dr. Hema Ramachandran, Dr. Ramesh, Mrs.Sujatha. This work was done as part of my M.Tech Internship at BCI lab.
 
@@ -162,7 +163,7 @@ Raman Research Institute
 Bangalore-80.
 
 
-REFERENCES
+**REFERENCES**
 
 [1]. Luz María Alonso-Valerdia, Francisco Sepulvedaa, “Programming an Offline-Analyzer of Motor Imagery Signals via Python Language”, 33rd Annual International Conference of the IEEE EMBS Boston, Massachusetts USA, August 30 - September 3, 2011.
 
