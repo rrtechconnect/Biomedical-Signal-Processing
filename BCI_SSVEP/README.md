@@ -37,13 +37,16 @@ FFT BASED PEAK DETECTION & SNR Calculation
 
 ![image](https://user-images.githubusercontent.com/117635899/213845486-e01f5478-52ca-4b9c-9e93-639fb437e949.png)
 
+RESULTS
+
+![image](https://user-images.githubusercontent.com/117635899/213845200-d82c5cdc-389a-4e4d-a75f-741441302999.png)
+
 ACKNOWLEDGEMENT:
 
 This work was carried out at BRAIN COMPUTER INTERFACE LABORATORY, RAMAN RESEARCH INSTITUTE, BANGALORE under the guidance of Dr. Hema Ramachandran, Dr. Ramesh, Mrs.Sujatha. This work was done as part of my M.Tech Internship at BCI lab.
 
-RESULTS
 
-![image](https://user-images.githubusercontent.com/117635899/213845200-d82c5cdc-389a-4e4d-a75f-741441302999.png)
+REFERENCES
 
 [1].G. Pfurtscheller, C. Neuper, “Motor Imagery and Direct Brain- Computer Interface,” Proceeding of IEEE, vol.89, pp. 1123-1134, 2001.
 
