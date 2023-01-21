@@ -37,10 +37,26 @@ FFT BASED PEAK DETECTION & SNR Calculation
 
 ![image](https://user-images.githubusercontent.com/117635899/213845486-e01f5478-52ca-4b9c-9e93-639fb437e949.png)
 
+ACKNOWLEDGEMENT:
+
+This work was carried out at BRAIN COMPUTER INTERFACE LABORATORY, RAMAN RESEARCH INSTITUTE, BANGALORE under the guidance of Dr. Hema Ramachandran, Dr. Ramesh, Mrs.Sujatha as part of my M.Tech Internship.
 
 RESULTS
 
 ![image](https://user-images.githubusercontent.com/117635899/213845200-d82c5cdc-389a-4e4d-a75f-741441302999.png)
+
+[1].G. Pfurtscheller, C. Neuper, “Motor Imagery and Direct Brain- Computer Interface,” Proceeding of IEEE, vol.89, pp. 1123-1134, 2001.
+
+[2].Hendricks HT, van Limbeek J, Geurts AC, Zwarts MJ. Motor recovery after stroke: a systematic review of the literature. Arch Phys Med Rehabil 2002; 83: 1629–1637.
+
+[3].Jackson PL, Lafleur MF, Malouin F, Richards C, Doyon J. Potential role of mental practice using motor imagery in neurologic rehabilitation. Arch Phys Med Rehabil 2001; 82: 1133–1141.
+
+[4].C. Neuper, G. Pfurtscheller, “Event-related dynamics of cortical rhytms: frequency-specific features and functional correlates,” Inter. Jour. of Psychophys., 43, pp. 41-58, 2001.
+
+[5]. http://www.gtec.at/
+
+[6].http://www.bci2000.org/
+
 
 
 
