@@ -29,8 +29,7 @@ What is SSVEP?
 
   Presence of a signal at the same frequency in the EEG from the occipital area indicates that the subject is looking at the stimulus.
   
- SSVEP Setup on Single-board Computer Odroid c1+/BeagleBone
- 
+SSVEP SETUP on SINGLE BOARD COMPUTER ODROID C1+/BEAGLEBONE
 ![image](https://user-images.githubusercontent.com/117635899/213845591-18b1df7c-c04e-4bae-b27e-7b5fd4b4b2cd.png)
 
 
